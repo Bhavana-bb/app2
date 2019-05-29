@@ -6,5 +6,6 @@ app.listen(3000,'0.0.0.0',()=>{
     console.log('server started on 3000');
 
 
+    console.log("HELLO");
 
 });
